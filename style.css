@@ -1,0 +1,27 @@
+body {
+    background: #0ABAB5;
+    color: black;
+    font: 11px Tahoma;
+}
+
+table, th, td {
+    border: 1px solid orange;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+tr:nth-child(even) {
+    background-color: #ff7e30;
+}
+
+tr {
+    background-color: paleturquoise;
+}
+
+input {
+    background-color: palegreen;
+}
+
+button {
+    background-color: palegreen;
+}
